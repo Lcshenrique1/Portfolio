@@ -47,7 +47,7 @@ header{
 	box-shadow: 0px 0px 20px 10px #00008B;
     background-repeat: no-repeat;
 	background-size: 100% 50px ;
-	margin-top: 50px;
+	margin-top: 100px;
 
 	} 
 .nav{
@@ -68,7 +68,7 @@ header{
 }
 .nav i{
 	font-size: 30px;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 .img2 img{
 	margin-top: 30px;
