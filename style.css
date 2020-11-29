@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap')
+body, ul , li, p{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+body{
+	background-color: 	#00008B;
+	background-image: url("imagem/.jpg");
+	background-repeat: no-repeat;
+}
+img{
+	width: 100%;
+}
+header{
+	padding: 2px;
+	background-color: #000;
+
+}
+.topo{
+	
+	height: 250px;
+	width: 97,2%;
+}
+.perfil{
+	padding: 30px;
+	background-color: #0ff0;
+	width:  280px;
+	height: 450px;
+	border: 0px solid #008080;
+	border-radius: 10px 10px 10px 10px;
+	margin: 0 auto;
+	background-color: #FFF8DC;
+	box-shadow: 0px 0px 20px 10px #00008B;
+	background-image: url("imagem/.png");
+	background-repeat: no-repeat;
+	background-size: 100% 580px ;
+
+	} 
+.nav{
+	width: 40%;
+	margin-top: 0px;
+	float: right;
+}
+ 
+.nav li{
+	width: 45px;
+	height: 45px;
+	border-radius: 50px;
+	display: inline-block;
+	border: 0px solid #48D1CC;
+	text-align: center;
+
+	
+}
+.nav i{
+	font-size: 30px;
+	margin-top: 10px;
+}
+.img2 img{
+	margin-top: 30px;
+}
+
+
+.nav2{
+	width: 30px;
+	margin-top: 10px;
+	padding: 10px 0px 0px 20px;
+
+}
+ 
+.nav2 li{
+	width: 30px;
+	height: 30px;
+	border-radius: 50px;
+	border: 2px solid #48D1CC;
+	text-align: center;
+
+
+	
+}
+.nav2 i{
+	font-size: 15px;
+	margin-top: 8px;
+	color: #ffff;
+}
+
+
+
+span{
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+	color: #008B8B;
+	margin-top: 15px;
+}
+
+.nav2 span{
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	color: #008B8B;
+}	
+
+
+.imagem{
+	width: 100px;
+	height: 100px;
+	border:  0px solid #008080;
+	border-radius: 100px;
+	padding: 1px;
+	
+}
+.imagem img{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+	
+}
+ .nome {
+	font-size: 25px;
+	font-family: 'Poppins', sans-serif;
+	color: #00008B;
+	padding: 40px 0px;
+	display: block;
+	text-align: center;
+
+}
+h4{
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	color: #A9A9A9;
+	text-align: center;
+}
